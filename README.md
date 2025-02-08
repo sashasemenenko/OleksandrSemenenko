@@ -25,4 +25,4 @@ Test Engineer with 5+ years of experience, who has a good understanding of QA pr
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=jgit,postman,pycharm,py,selenium,vscode,mysql,mongodb,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jgit,postman,pycharm,py,selenium,vscode,mysql,mongodb,github&theme=dark)](https://skillicons.dev)
